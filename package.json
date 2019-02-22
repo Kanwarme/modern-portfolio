@@ -1,0 +1,26 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanwarme/modern-portfolio.git"
+  },
+  "keywords": [
+    "responsive",
+    "website"
+  ],
+  "author": "Rishabh Kanwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kanwarme/modern-portfolio/issues"
+  },
+  "homepage": "https://github.com/Kanwarme/modern-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
